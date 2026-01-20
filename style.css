@@ -1,0 +1,33 @@
+body{
+    background-image:url("https://www.littlepassports.com/blog/science/optical-illusions-art-gallery/?srsltid=AfmBOoppPFuYY8JUGPbv7aKG_CleBx2DEOEOSDOAX2tP7BCO8nzHTOUh")
+    color: #4f7276
+    }
+h2{
+    color:#cb852a
+}
+h3{
+    color:#3b9868
+}
+h4{
+    color:#b8adeb
+}
+p{
+    colour: gray;
+
+}   
+li{
+    color: red;
+    
+}
+.even{
+    background-color: #3b9868;
+    font-size: 29px;
+}
+.odd{
+    background-color: #b8adeb;
+    font-size: 35px;
+}
+.middle{
+    background-color: beige;
+    font-size: 40px;
+}
